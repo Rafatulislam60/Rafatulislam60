@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://rafat-portfolio-site.netlify.app/](https://rafat-portfolio-site.netlify.app/)
 
-- 💬 Ask me about **MEARN DEVELOPMENT, FRONT-END DEVELOPMENT**
+- 💬 Ask me about **MERN DEVELOPMENT, FRONT-END DEVELOPMENT**
 
 - 📫 How to reach me **rafatulislam67@gmail.com**
 
